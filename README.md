@@ -2,11 +2,11 @@
 
 **Junior Developer · 42 Mulhouse**
 
-Computer Science student with a strong interest in systems programming, cybersecurity, and networking. I enjoy tackling low-level technical challenges and building things that work reliably.
+💻 Computer Science student with a strong interest in systems programming, cybersecurity, and networking. I enjoy tackling low-level technical challenges and building things that work reliably.
 
 ---
 
-## Skills
+## 🛠️ Skills
 
 **Languages**
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
@@ -34,7 +34,7 @@ Computer Science student with a strong interest in systems programming, cybersec
 
 ---
 
-## Stats
+## 📊 Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=h-claude&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
@@ -43,35 +43,35 @@ Computer Science student with a strong interest in systems programming, cybersec
 
 ---
 
-## Selected Projects
+## 🚀 Selected Projects
 
-**[ft_transcendence](https://github.com/h-claude/ft_transcendence)** — Full-stack multiplayer web app with real-time WebSocket communication, REST API, OAuth2 and 2FA authentication. Built with Fastify and Node.js.
+**[ft_transcendence](https://github.com/h-claude/ft_transcendence)** — 🎮 Full-stack multiplayer web app with real-time WebSocket communication, REST API, OAuth2 and 2FA authentication. Built with Fastify and Node.js.
 
-**[cub3d](https://github.com/h-claude/cub3d)** — First-person 3D engine in C using raycasting (DDA algorithm) and OpenGL via MLX42.
+**[cub3d](https://github.com/h-claude/cub3d)** — 🎯 First-person 3D engine in C using raycasting (DDA algorithm) and OpenGL via MLX42.
 
-**[minishell](https://github.com/h-claude/minishell)** — Custom Unix shell with a hand-written lexer, tokenizer, and AST parser. Handles pipes, redirections, signals, and builtins.
+**[minishell](https://github.com/h-claude/minishell)** — 🐚 Custom Unix shell with a hand-written lexer, tokenizer, and AST parser. Handles pipes, redirections, signals, and builtins.
 
-**[Inception](https://github.com/h-claude/inception)** — Multi-service containerized infrastructure using Docker Compose (NGINX, WordPress, MariaDB).
+**[Inception](https://github.com/h-claude/inception)** — 🐳 Multi-service containerized infrastructure using Docker Compose (NGINX, WordPress, MariaDB).
 
 ---
 
-## Hackathons
+## 🏆 Hackathons
 
 | Event | Result | Year |
 |---|---|---|
-| Hacking Health Camp — Medical job offer map for underserved areas | SML Award · French Tech Est | 2026 |
-| BioEco Camp — AI system for tree disease detection | Grand Prix de Reims | 2025 |
-| 42 Prague × Škoda Auto — Internal career path recommender | 3rd / 17 teams | 2025 |
-| Accessibility Tourism (Ministry of Economy & SNCF) — LLM route planner for disabled travelers | Participant | 2024 |
+| Hacking Health Camp — Medical job offer map for underserved areas | 🥇 SML Award · French Tech Est | 2026 |
+| BioEco Camp — AI system for tree disease detection | 🏆 Grand Prix de Reims | 2025 |
+| 42 Prague × Škoda Auto — Internal career path recommender | 🥉 3rd / 17 teams | 2025 |
+| Accessibility Tourism (Ministry of Economy & SNCF) — LLM route planner for disabled travelers | 🤝 Participant | 2024 |
 
 ---
 
-## Education
+## 🎓 Education
 
 **42 Mulhouse** — Computer Science *(2023 – present)*
 
 ---
 
-## Contact
+## 📬 Contact
 
 [hippolyteclaude@icloud.com](mailto:hippolyteclaude@icloud.com) · Mulhouse, France
