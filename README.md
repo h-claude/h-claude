@@ -45,7 +45,7 @@ Computer Science student with a strong interest in systems programming, cybersec
 
 ## Selected Projects
 
-**ft_transcendence** — Full-stack multiplayer web app with real-time WebSocket communication, REST API, OAuth2 and 2FA authentication. Built with Fastify and Node.js.
+**[ft_transcendence](https://github.com/h-claude/ft_transcendence)** — Full-stack multiplayer web app with real-time WebSocket communication, REST API, OAuth2 and 2FA authentication. Built with Fastify and Node.js.
 
 **[cub3d](https://github.com/h-claude/cub3d)** — First-person 3D engine in C using raycasting (DDA algorithm) and OpenGL via MLX42.
 
