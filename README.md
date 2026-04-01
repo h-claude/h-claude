@@ -34,15 +34,6 @@
 
 ---
 
-## 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=h-claude&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-claude&layout=compact&theme=dark&hide_border=true&langs_count=6" height="150" alt="Top Languages" />
-</p>
-
----
-
 ## 🚀 Selected Projects
 
 **[ft_transcendence](https://github.com/h-claude/ft_transcendence)** — 🎮 Full-stack multiplayer web app with real-time WebSocket communication, REST API, OAuth2 and 2FA authentication. Built with Fastify and Node.js.
