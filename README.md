@@ -1,17 +1,39 @@
-# Hippolyte Claudé
+<h1 align="center">Hi, I'm Hippolyte Claudé 👋</h1>
 
-Développeur junior à 42 Mulhouse, passionné par les projets systèmes, réseau et web.
+<p align="center">
+  Junior Developer · 42 Mulhouse
+</p>
+
+<p align="center">
+  Passionate about systems programming, networking, and building reliable software.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hippolyte-claude-25b840396"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:hippolyteclaude@icloud.com"><img src="https://img.shields.io/badge/Email-hippolyteclaude%40icloud.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
 
-## 🚀 Projets Majeurs
+## 🚀 Major Projects
 
-- **[Minishell](https://github.com/h-claude/minishell)** : shell Unix en C avec parsing, pipes, redirections et signaux.
-- **[cub3d](https://github.com/h-claude/cub3d)** : moteur 3D en C basé sur le raycasting.
-- **[ft_transcendence](https://github.com/h-claude/ft_transcendence)** : application web multijoueur avec backend temps réel et authentification.
-- **[webserv](https://github.com/h-claude/webserv)** : serveur HTTP en C++ (requêtes, configuration, réponses).
-- **[Inception](https://github.com/h-claude/inception)** : infrastructure Docker multi-services (Nginx, WordPress, MariaDB).
-- **[IoT](https://github.com/h-claude/hclaude-iot)** : projet orienté objets connectés / infrastructure IoT.
+### 🐚 [Minishell](https://github.com/h-claude/minishell)
+Custom Unix shell in C with parsing, pipes, redirections, signals, and built-ins.
+
+### 🎯 [cub3d](https://github.com/h-claude/cub3d)
+3D engine in C using raycasting principles.
+
+### 🎮 [ft_transcendence](https://github.com/h-claude/ft_transcendence)
+Multiplayer web platform with real-time backend features and authentication.
+
+### 🌐 [webserv](https://github.com/h-claude/webserv)
+HTTP server in C++ handling request parsing, routing, and responses.
+
+### 🐳 [Inception](https://github.com/h-claude/inception)
+Docker-based multi-service infrastructure (Nginx, WordPress, MariaDB).
+
+### 📡 [IoT](https://github.com/h-claude/hclaude-iot)
+Connected devices / IoT infrastructure-focused project.
 
 ---
 
@@ -28,5 +50,5 @@ Développeur junior à 42 Mulhouse, passionné par les projets systèmes, résea
 
 ## 📬 Contact
 
-- Email : [hippolyteclaude@icloud.com](mailto:hippolyteclaude@icloud.com)
-- LinkedIn : [linkedin.com/in/hippolyte-claude-25b840396](https://www.linkedin.com/in/hippolyte-claude-25b840396)
+- Email: [hippolyteclaude@icloud.com](mailto:hippolyteclaude@icloud.com)
+- LinkedIn: [linkedin.com/in/hippolyte-claude-25b840396](https://www.linkedin.com/in/hippolyte-claude-25b840396)
