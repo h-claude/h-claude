@@ -7,10 +7,10 @@ Développeur junior à 42 Mulhouse, passionné par les projets systèmes, résea
 ## 🚀 Projets majeurs
 
 - **[Minishell](https://github.com/h-claude/minishell)** : shell Unix en C avec parsing, pipes, redirections et signaux.
-- **[cub3d](https://github.com/h-claude/cub3d)** : un moteur 3D en C basé sur le raycasting.
+- **[cub3d](https://github.com/h-claude/cub3d)** : moteur 3D en C basé sur le raycasting.
 - **[ft_transcendence](https://github.com/h-claude/ft_transcendence)** : application web multijoueur avec backend temps réel et authentification.
 - **[webserv](https://github.com/h-claude/webserv)** : serveur HTTP en C++ (requêtes, configuration, réponses).
-- **[inception](https://github.com/h-claude/inception)** : infrastructure Docker multi-services (Nginx, WordPress, MariaDB).
+- **[Inception](https://github.com/h-claude/inception)** : infrastructure Docker multi-services (Nginx, WordPress, MariaDB).
 - **[IoT](https://github.com/h-claude/hclaude-iot)** : projet orienté objets connectés / infrastructure IoT.
 
 ---
