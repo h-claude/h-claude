@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hippolyte-claude-25b840396"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:hippolyteclaude@icloud.com"><img src="https://img.shields.io/badge/Email-hippolyteclaude%40icloud.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:hippolyteclaude@icloud.com"><img src="https://img.shields.io/badge/Email-hippolyteclaude%40icloud.com-EA4335?style=for-the-badge" alt="Email" /></a>
 </p>
 
 ---
@@ -33,7 +33,7 @@ HTTP server in C++ handling request parsing, routing, and responses.
 Docker-based multi-service infrastructure (Nginx, WordPress, MariaDB).
 
 ### 📡 [IoT](https://github.com/h-claude/hclaude-iot)
-IoT project handling device telemetry flows, MQTT/HTTP connectivity, and containerized services.
+IoT platform for device telemetry using MQTT/HTTP protocols with Docker containerization.
 
 ---
 
