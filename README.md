@@ -33,7 +33,7 @@ HTTP server in C++ handling request parsing, routing, and responses.
 Docker-based multi-service infrastructure (Nginx, WordPress, MariaDB).
 
 ### 📡 [IoT](https://github.com/h-claude/hclaude-iot)
-Connected devices / IoT infrastructure-focused project.
+IoT-oriented project focused on infrastructure, networking, and service deployment.
 
 ---
 
