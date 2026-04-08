@@ -10,7 +10,7 @@ Développeur junior à 42 Mulhouse, passionné par les projets systèmes, résea
   Shell Unix en C avec parsing, gestion des pipes, redirections et signaux.
 
 - **[cub3d](https://github.com/h-claude/cub3d)**  
-  Moteur 3D en C basé sur le raycasting.
+  Un moteur 3D en C basé sur le raycasting.
 
 - **[ft_transcendence](https://github.com/h-claude/ft_transcendence)**  
   Application web multiplayer avec backend, temps réel et authentification.
@@ -40,4 +40,4 @@ Développeur junior à 42 Mulhouse, passionné par les projets systèmes, résea
 ## 📬 Contact
 
 - Email : [hippolyteclaude@icloud.com](mailto:hippolyteclaude@icloud.com)
-- LinkedIn : [www.linkedin.com/in/hippolyte-claude-25b840396](https://www.linkedin.com/in/hippolyte-claude-25b840396)
+- LinkedIn : [linkedin.com/in/hippolyte-claude-25b840396](https://www.linkedin.com/in/hippolyte-claude-25b840396)
