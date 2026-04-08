@@ -4,7 +4,7 @@ Développeur junior à 42 Mulhouse, passionné par les projets systèmes, résea
 
 ---
 
-## 🚀 Projets majeurs
+## 🚀 Projets Majeurs
 
 - **[Minishell](https://github.com/h-claude/minishell)** : shell Unix en C avec parsing, pipes, redirections et signaux.
 - **[cub3d](https://github.com/h-claude/cub3d)** : moteur 3D en C basé sur le raycasting.
