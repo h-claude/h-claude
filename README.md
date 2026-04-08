@@ -1,48 +1,39 @@
-# Hippolyte Claudé
+<h1 align="center">Hi, I'm Hippolyte Claudé 👋</h1>
 
-**Junior Developer · 42 Mulhouse**
+<p align="center">
+  Junior Developer · 42 Mulhouse
+</p>
 
-💻 Computer Science student with a strong interest in systems programming, cybersecurity, and networking. I enjoy tackling low-level technical challenges and building things that work reliably.
+<p align="center">
+  Passionate about systems programming, networking, and building reliable software.
+</p>
 
----
-
-## 🛠️ Skills
-
-**Languages**
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-**Web & Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat&logo=postman&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socket.io&logoColor=white)
-![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=flat&logo=auth0&logoColor=white)
-
-**Systems & Graphics**
-![Unix](https://img.shields.io/badge/Unix_Programming-FCC624?style=flat&logo=linux&logoColor=black)
-![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=opengl&logoColor=white)
-
-**DevOps & Tools**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+<p align="center">
+  <a href="https://www.linkedin.com/in/hippolyte-claude-25b840396"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:hippolyteclaude@icloud.com"><img src="https://img.shields.io/badge/Email-hippolyteclaude%40icloud.com-EA4335?style=for-the-badge" alt="Email" /></a>
+</p>
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Major Projects
 
-**[ft_transcendence](https://github.com/h-claude/ft_transcendence)** — 🎮 Full-stack multiplayer web app with real-time WebSocket communication, REST API, OAuth2 and 2FA authentication. Built with Fastify and Node.js.
+### 🐚 [Minishell](https://github.com/h-claude/minishell)
+Custom Unix shell in C with parsing, pipes, redirections, signals, and built-ins.
 
-**[cub3d](https://github.com/h-claude/cub3d)** — 🎯 First-person 3D engine in C using raycasting (DDA algorithm) and OpenGL via MLX42.
+### 🎯 [cub3d](https://github.com/h-claude/cub3d)
+3D engine in C using raycasting principles.
 
-**[minishell](https://github.com/h-claude/minishell)** — 🐚 Custom Unix shell with a hand-written lexer, tokenizer, and AST parser. Handles pipes, redirections, signals, and builtins.
+### 🎮 [ft_transcendence](https://github.com/h-claude/ft_transcendence)
+Multiplayer web platform with real-time backend features and authentication.
 
-**[Inception](https://github.com/h-claude/inception)** — 🐳 Multi-service containerized infrastructure using Docker Compose (NGINX, WordPress, MariaDB).
+### 🌐 [webserv](https://github.com/h-claude/webserv)
+HTTP server in C++ handling request parsing, routing, and responses.
+
+### 🐳 [Inception](https://github.com/h-claude/inception)
+Docker-based multi-service infrastructure (Nginx, WordPress, MariaDB).
+
+### 📡 [IoT](https://github.com/h-claude/hclaude-iot)
+IoT platform for device telemetry using MQTT/HTTP protocols with Docker containerization.
 
 ---
 
@@ -57,12 +48,7 @@
 
 ---
 
-## 🎓 Education
-
-**42 Mulhouse** — Computer Science *(2023 – present)*
-
----
-
 ## 📬 Contact
 
-[hippolyteclaude@icloud.com](mailto:hippolyteclaude@icloud.com) · Mulhouse, France
+- Email: [hippolyteclaude@icloud.com](mailto:hippolyteclaude@icloud.com)
+- LinkedIn: [linkedin.com/in/hippolyte-claude-25b840396](https://www.linkedin.com/in/hippolyte-claude-25b840396)
