@@ -32,8 +32,8 @@ HTTP server in C++ handling request parsing, routing, and responses.
 ### 🐳 [Inception](https://github.com/h-claude/inception)
 Docker-based multi-service infrastructure (Nginx, WordPress, MariaDB).
 
-### 📡 [IoT](https://github.com/h-claude/hclaude-iot)
-IoT platform for device telemetry using MQTT/HTTP protocols with Docker containerization.
+### 📡 [IoT](https://github.com/h-claude/ft_Inception-of-Things)
+Kubernetes-focused infrastructure project (K3s/K3d, Vagrant, Ingress, ArgoCD) for progressive IoT/DevOps system deployment.
 
 ---
 
