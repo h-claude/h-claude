@@ -1,80 +1,40 @@
-# Hi there, I'm Hippolyte 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89f7fe,50:66a6ff,100:c2b3fb&height=180&section=header&text=Hippolyte%20Claudé&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Systems%20%26%20Backend&descAlignY=58&descSize=18&descColor=ffffff" width="100%"/>
+</p>
 
-```
-Master's Student @ 42, specializing in Cybersecurity
-📍 Paris, France
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/📍-Paris,_France-6C63FF?style=for-the-badge&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/42-Mulhouse-6C63FF?style=for-the-badge&labelColor=1a1a2e" />
+  <a href="mailto:hippolyteclaude@icloud.com"><img src="https://img.shields.io/badge/Email-Contact_me-6C63FF?style=for-the-badge&labelColor=1a1a2e&logo=maildotru&logoColor=white" /></a>
+</p>
 
-A software engineer with a systems programming background, now focused on cybersecurity: identity & access management (OAuth2, 2FA), network segmentation, TLS/SSL, and defensive C/C++ programming. I like building software where correctness and memory safety actually matter — shells, servers, and network architectures.
+<p align="center">Systems programmer turned cybersecurity student — into memory-safe C/C++, network internals, and building things from the socket up.</p>
 
----
-
-## 🚀 Featured Projects
-
-### 🐚 [Minishell](https://github.com/h-claude/minishell)
-> A POSIX-compliant command interpreter in C that lexes, parses into an AST, and executes pipelines of external and built-in commands with I/O redirection.
-
-- **Problem & Classification:** Shell Implementation — lexing, recursive-descent parsing, and process orchestration.
-- **Key Engineering:** AST-based parser flattened into pipelines, custom garbage collector for leak-free allocation tracking, context-aware signal handling (interactive prompt, heredoc, child processes), built-ins (`cd`, `echo`, `env`, `exit`, `export`, `pwd`, `unset`) implemented in-process.
-- **Reliability:** `-Wall -Wextra -Werror`, deterministic cleanup via `fork`/`execve`/`waitpid`/`pipe`/`dup2`.
-- **Security:** Rigorous manual memory management with zero leaks (Valgrind-verified) to eliminate memory corruption vectors, process isolation for every executed command.
-- **Tech Stack:** `C (C99)`, `GNU Readline`, `Makefile`, `Linux`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,ts,js,nodejs,docker,kubernetes,linux,git,nginx,bash&theme=dark" />
+</p>
 
 ---
 
-### 🎯 [cub3D](https://github.com/h-claude/cub3d)
-> A ray-casting engine parsing custom `.cub` scene files to render real-time, textured first-person 3D projections of 2D maps — inspired by Wolfenstein 3D's rendering technique.
+<h3 align="center">🚀 Featured Projects</h3>
 
-- **Problem & Classification:** Real-time Graphics — ray marching, texture mapping, and map validation.
-- **Key Engineering:** Per-column ray marching with distance-based depth shading, cardinal-direction texture lookup, recursive flood-fill map enclosure verification, mouse-look and FPS/CPU/RAM HUD (bonus).
-- **Reliability:** Deterministic cleanup on every parsing error path, cross-platform memory sampling (Linux/macOS).
-- **Tech Stack:** `C`, `MLX42 (GLFW)`, `Makefile / CMake`
+<div align="center">
 
----
+| | Project | What it does | Stack |
+|:---:|:---|:---|:---|
+| 🐚 | **[Minishell](https://github.com/h-claude/minishell)** | POSIX shell in C — AST parsing, pipes, redirections, signals, zero leaks | `C` `Readline` |
+| 🎯 | **[cub3D](https://github.com/h-claude/cub3d)** | Real-time raycasting engine, rendering 3D from 2D texture maps | `C` `MLX42` |
+| 🎮 | **[ft_transcendence](https://github.com/h-claude/ft_transcendence)** | Real-time multiplayer Pong — OAuth2/2FA, WebSockets, on-chain scores | `Node.js` `TypeScript` `Docker` |
+| 🌐 | **[webserv](https://github.com/h-claude/webserv)** | Non-blocking HTTP/1.1 server with CGI, built from raw sockets | `C++98` `poll()` |
+| 📡 | **[IoT](https://github.com/h-claude/ft_Inception-of-Things)** | K3s/K3d Kubernetes clusters with GitOps via Argo CD | `K3s` `Argo CD` `Vagrant` |
 
-### 🎮 [ft_transcendence](https://github.com/h-claude/ft_transcendence)
-> A real-time multiplayer Pong platform combining an authoritative WebSocket game server, OAuth2/TOTP authentication, tournament orchestration, and blockchain-based score notarization.
-
-- **Problem & Classification:** Full-stack Real-time Web App — authoritative game server, matchmaking, and GitOps-style deployment.
-- **Key Engineering:** 60 Hz tick-rate physics server, JWT + httpOnly cookie auth with TOTP 2FA, FIFO matchmaking queue, tournament bracket state machine, on-chain score persistence on Avalanche Fuji testnet, AI opponent with trajectory prediction.
-- **Reliability:** Session recovery with reconnection grace period, boot-time state sanitization, Nginx TLS reverse proxy.
-- **Security:** End-to-end OAuth2 + TOTP 2FA, REST/WebSocket endpoints secured with JWTs, strict server-side validation (Zod) to prevent injection risks.
-- **Tech Stack:** `Node.js 20`, `Fastify`, `TypeScript`, `SQLite`, `ethers.js`, `Docker Compose`, `Nginx` — plus a `C++20` terminal client (`FTXUI`, `IXWebSocket`)
+</div>
 
 ---
 
-### 🌐 [webserv](https://github.com/h-claude/webserv)
-> A single-threaded, non-blocking HTTP/1.1 server in C++98 that uses `poll()` multiplexing to handle listening sockets, client connections, and CGI subprocess pipes simultaneously.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=h-claude&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-claude&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
+</p>
 
-- **Problem & Classification:** Network I/O Multiplexing — Reactor pattern over a unified event loop.
-- **Key Engineering:** Per-connection finite state machine (`WAITING_HEADERS → WAITING_BODY → PROCESSING → CGI_WRITING → CGI_READING → RESPONDING`), virtual hosting via Host header, CGI execution through forked pipes, keep-alive, multipart file uploads, hand-written config parser.
-- **Reliability:** Graceful shutdown on `SIGINT`/`SIGQUIT`, leak-free under Valgrind.
-- **Tech Stack:** `C++98`, `poll()`, `POSIX Sockets`, `Makefile`
-
----
-
-### 📡 [IoT (Inception of Things)](https://github.com/h-claude/ft_Inception-of-Things)
-> A three-stage Kubernetes infrastructure progression: a two-node K3s cluster via Vagrant, a single-node setup with virtual-hosted apps behind Traefik Ingress, and a K3d cluster running Argo CD for GitOps continuous deployment.
-
-- **Problem & Classification:** Container Orchestration & GitOps — cluster bootstrap, ingress routing, and continuous deployment.
-- **Key Engineering:** Deterministic multi-node cluster bootstrap via shared token exchange, host-name-based HTTP routing to independently-scaled backends, Argo CD reconciliation loop for GitOps automation, cross-architecture support via QEMU emulation.
-- **Tech Stack:** `K3s`, `K3d`, `Vagrant / VirtualBox`, `Traefik Ingress`, `Argo CD`, `Docker CE`
-
----
-
-## 🛠️ Technical Arsenal
-
-| Domain | Technologies & Tooling |
-| :--- | :--- |
-| **Languages** | C, C++ (98/20), Python, TypeScript, JavaScript, SQL, Assembly (x86-64), Shell |
-| **Security & Systems** | OAuth2, 2FA/TOTP, TLS/SSL, Network Segmentation, Defensive C/C++, Memory Safety, Unix Internals |
-| **Systems & Networking** | POSIX Sockets, `poll()`/multiplexing, Signals, IPC (pipes, fork/exec) |
-| **Backend & Web** | Node.js, Fastify, WebSockets, SQLite, JWT |
-| **DevOps & Infrastructure** | Docker, Docker Compose, Kubernetes (K3s/K3d), Vagrant, Argo CD, Nginx |
-| **Profiling & Diagnostics** | GDB, Valgrind, Clang Sanitizers |
-
----
-
-## 📬 Let's Connect
-
-- **Email:** [hippolyteclaude@icloud.com](mailto:hippolyteclaude@icloud.com)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c2b3fb,50:66a6ff,100:89f7fe&height=100&section=footer" width="100%"/>
