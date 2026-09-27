@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/📍-Paris,_France-6C63FF?style=for-the-badge&amp;labelColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/42-Mulhouse-6C63FF?style=for-the-badge&amp;labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/42--6C63FF?style=for-the-badge&amp;labelColor=1a1a2e" />
   <a href="mailto:hippolyteclaude@icloud.com"><img src="https://img.shields.io/badge/Email-Contact_me-6C63FF?style=for-the-badge&amp;labelColor=1a1a2e&amp;logo=maildotru&amp;logoColor=white" /></a>
 </p>
 
