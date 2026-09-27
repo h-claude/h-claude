@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:89f7fe,50:66a6ff,100:c2b3fb&amp;height=180&amp;section=header&amp;text=Hippolyte&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Cybersecurity%20%7C%20Systems%20%26%20Backend&amp;descAlignY=58&amp;descSize=18&amp;descColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:89f7fe,50:66a6ff,100:c2b3fb&amp;height=180&amp;section=header&amp;text=Hippolyte&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Cybersecurity%20%C2%B7%20Systems&amp;descAlignY=58&amp;descSize=18&amp;descColor=ffffff" width="100%"/>
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
   <a href="mailto:hippolyteclaude@icloud.com"><img src="https://img.shields.io/badge/Email-Contact_me-6C63FF?style=for-the-badge&amp;labelColor=1a1a2e&amp;logo=maildotru&amp;logoColor=white" /></a>
 </p>
 
-<p align="center">Systems programmer turned cybersecurity student — into memory-safe C/C++, network internals, and building things from the socket up.</p>
+<p align="center">Systems programmer turned cybersecurity student.</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,ts,js,nodejs,docker,kubernetes,linux,git,nginx,bash&amp;theme=dark" />
@@ -31,10 +31,5 @@
 </div>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=h-claude&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-claude&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" width="38%" />
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:c2b3fb,50:66a6ff,100:89f7fe&amp;height=100&amp;section=footer" width="100%"/>
