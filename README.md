@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/📍-Paris,_France-6C63FF?style=for-the-badge&amp;labelColor=1a1a2e" />
   <a href="https://42.fr">
-    <img src="https://cdn.simpleicons.org/42/000000" alt="42 Paris" height="28" />
+    <img src="https://img.shields.io/badge/42%20Paris-000000?style=for-the-badge&amp;logo=42&amp;logoColor=white" alt="42 Paris" />
   </a>
   <a href="mailto:hippolyteclaude@icloud.com"><img src="https://img.shields.io/badge/Email-Contact_me-6C63FF?style=for-the-badge&amp;labelColor=1a1a2e&amp;logo=maildotru&amp;logoColor=white" /></a>
 </p>
