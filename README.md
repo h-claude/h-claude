@@ -11,7 +11,7 @@
 <p align="center">Systems programmer turned cybersecurity student.</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,ts,js,nodejs,docker,kubernetes,linux,git,nginx,bash&amp;theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,apple,linux&amp;theme=dark" />
 </p>
 
 ---
